@@ -4,12 +4,6 @@ ibm-watsonx-ai
 transformers
 python-dotenv
 
-# Optional dependencies you may already have
-faiss-cpu==1.7.4
 
-# Required for text loading
-unstructured==0.11.6
 
-# If using HuggingFaceEmbeddings
-sentence-transformers==2.7.0
 
