@@ -1,9 +1,8 @@
-streamlit==1.33.0
-langchain_ibm==0.0.8
-ibm-watsonx-ai==2.2.0
-transformers==4.41.1
-python-dotenv==1.0.1
-langchain-core>=0.1.52
+streamlit
+langchain-ibm==0.3.13
+ibm-watsonx-ai
+transformers
+python-dotenv
 
 # Optional dependencies you may already have
 faiss-cpu==1.7.4
