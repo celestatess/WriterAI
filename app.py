@@ -22,7 +22,7 @@ st.markdown(
 )
 
 # Logo and title
-st.image("https://upload.wikimedia.org/wikipedia/commons/8/8f/OpenAI_Logo.svg", width=70)
+
 st.title("AI Writing Assistant")
 st.caption("Powered by IBM Watsonx · Ask academic, legal, creative, or professional questions")
 
